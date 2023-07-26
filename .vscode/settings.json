@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "${workspaceFolder}/src/main/python:${workspaceFolder}/tests/main/python:${env:PYTHONPATH}"
+    }
+}
